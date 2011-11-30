@@ -783,7 +783,7 @@ Y puedes usar todos los comandos de L<Mojolicious::Commands>.
 
   perl -Mojo -e'a({text => "Hello World!"})->start' get -v /
 
-=head1 Más
+=head1 MÁS
 
 Ahora puedes continuar con L<Mojolicious::Guides> o puedes mirar la wiki de
 Mojolicious L<http://github.com/kraih/mojo/wiki>, que contiene mucha 
